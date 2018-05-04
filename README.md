@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+My name is Melira Gurung. I live at Foster City, California.
